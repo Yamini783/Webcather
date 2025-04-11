@@ -1,0 +1,10 @@
+flask 
+flask-cors 
+requests 
+beautifulsoup4 
+scikit-learn 
+whois 
+googlesearch-python 
+numpy 
+pandas
+python-whois
